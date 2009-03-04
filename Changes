@@ -1,0 +1,6 @@
+Revision history for Perl extension WebService::Validator::HTML::W3C::Embedded.
+
+0.01  Wed Mar  4 13:01:46 2009
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -n WebService::Validator::HTML::W3C::Embedded
+

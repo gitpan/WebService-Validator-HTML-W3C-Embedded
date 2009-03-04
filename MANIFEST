@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WebService-Validator-HTML-W3C-Embedded.t
+lib/WebService/Validator/HTML/W3C/Embedded.pm
+META.yml                                 Module meta-data (added by MakeMaker)
